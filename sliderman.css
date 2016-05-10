@@ -59,6 +59,7 @@
 
 .sliderman-container-inner-col
 {
+	width: 0;
     height: 100%;
     display: -webkit-box;
     display: -webkit-flex;
